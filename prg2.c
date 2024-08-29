@@ -1,5 +1,5 @@
 //Programme2
-//Escape Sequence
+//Escape Sequence.
 
 #include<stdio.h>
 int main()

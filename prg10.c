@@ -1,5 +1,5 @@
 //Programme 10
-//Area of Rectangle
+//Area of Rectangle.
 
 #include<stdio.h>
 int main()

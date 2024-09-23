@@ -1,6 +1,5 @@
-// Print A to Z with their Ascii Value with For Loop
+//Print A to Z with their Ascii Value with For Loop
 #include<stdio.h>
-
 int main()
 {
     int i;

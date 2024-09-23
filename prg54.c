@@ -1,4 +1,4 @@
-//Print 1,3,4...=25
+//Print 1,3,5...=25
 #include<stdio.h>
 int main()
 {

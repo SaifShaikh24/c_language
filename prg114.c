@@ -17,7 +17,7 @@ int main()
     }
     for(i=0;i<5;i++)
     {
-        printf(" %d  %d  %d " a[i],b[i], a[i]+b[i]);
+        printf(" %d  %d  %d ", a[i],b[i], a[i]+b[i]);
     }
     return 0;
 }

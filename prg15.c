@@ -2,7 +2,7 @@
 //Result
 
 #include<stdio.h>
-int mai()
+int main()
 {
 	int m,p,c,t,pe;
 	printf("Enter Maths marks");
